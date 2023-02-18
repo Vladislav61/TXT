@@ -1,0 +1,6 @@
+Preferences:
+	Favorite movie: "Gentlemen"
+	Favorite series: "Vikings"
+	Favorite food: "Оkroshka"
+	Favorite season: "Summer"
+	Сountry you would like to visit: "Japan"
